@@ -1,2 +1,2 @@
 # isrValidatePhone
-an input field which validates israeli telephone area code
+is a react.js input component that validates israeli area code
